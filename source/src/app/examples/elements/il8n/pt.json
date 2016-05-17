@@ -1,0 +1,44 @@
+{
+    "MENU": {
+        "ELEMENTS": {
+            "ELEMENTS": "Elementos",
+            "BUTTONS": "Botões",
+            "CARDS": "Cartões",
+            "ICONS": "Ícones",
+            "CHECKBOXES": "Caixas de seleção",
+            "SWITCHES": "Opções",
+            "RADIOS": "Rádios",
+            "DIALOGS": "Caixas de diálogo",
+            "GRIDS": "Grades",
+            "FAB-SPEED": "FAB Discagem rápida",
+            "FAB-TOOLBAR": "FAB barra de Ferramentas",
+            "TABS": "Guias",
+            "SLIDERS": "Controles deslizantes",
+            "SELECTS": "Seleciona",
+            "TABLES": "Tabelas",
+            "PROGRESS": "Progresso",
+            "SIDEBARS": "Sidebars",
+            "TOOLBARS": "Barras de ferramentas",
+            "TEXTANGULAR": "Textangular",
+            "TOOLTIPS": "As dicas de ferramentas",
+            "WHITEFRAMES": "Whiteframes",
+            "TOASTS": "Brindes",
+            "LISTS": "Listas",
+            "CHIPS": "Fichas",
+            "MENUS": "Menus",
+            "UPLOAD": "Upload",
+            "LOADER": "Carregador",
+            "DATEPICKER": "O selecionador de data"
+        }
+    },
+    "TABLE": {
+        "COLUMNS": {
+            "NAME": "Nome",
+            "DESCRIPTION": "Descrição",
+            "BIRTH": "Data de Nascimento",
+            "AVATAR": "Avatar",
+            "LOGIN": "Login",
+            "ID": "ID"
+        }
+    }
+}

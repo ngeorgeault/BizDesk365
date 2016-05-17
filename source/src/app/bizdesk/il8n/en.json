@@ -1,0 +1,11 @@
+{
+    "MENU": {
+        "BIZDESK": {
+            "BIZDESK-MODULE": "Bizdesk365",
+            "HOME-PAGE": "Home"
+        }
+    },
+    "SEED": {
+        "TITLE": "Welcome to the triangular test page"
+    }
+}
